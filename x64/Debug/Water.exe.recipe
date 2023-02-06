@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\Water.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\ReflectedTintedTexture_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\ReflectedPixelLighting_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\BasicTransformWorldPos_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\RefractedPixelLighting_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\RefractedTintedTexture_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\TintedTexture_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\BasicTransform_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\PixelLighting_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\PixelLighting_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\WaterHeight_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\WaterSurface_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>\\CY014-DC\Roaming Profiles\nnouhi\Desktop\Maths\Water\WaterSurface_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
